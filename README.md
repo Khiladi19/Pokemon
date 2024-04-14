@@ -1,7 +1,9 @@
 # React + Vite(Pokadex)
 
-Tech-used:React.js,vs-editor
-Feature:
+#Tech-used:
+*React.js,
+*vs-editor
+#Feature:
 User can search a pokemon.
 User can vist a pokemon.
 User can see a pokemon properties
