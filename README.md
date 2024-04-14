@@ -1,6 +1,11 @@
-# React + Vite
+# React + Vite(Pokadex)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tech-used:React.js,vs-editor
+Feature:
+User can search a pokemon.
+User can vist a pokemon.
+User can see a pokemon properties
+
 
 Currently, two official plugins are available:
 
